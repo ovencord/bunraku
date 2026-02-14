@@ -1,0 +1,62 @@
+{
+  "name": "@ovencord/bunraku",
+  "version": "1.0.0",
+  "description": "The evolution of digital puppets. A high-performance, Bun-native Lavalink connector. Zero-dependency core.",
+  "main": "./index.ts",
+  "module": "./index.ts",
+  "types": "./index.ts",
+  "type": "module",
+  "files": [
+    "src",
+    "index.ts",
+    "README.md"
+  ],
+  "exports": {
+    ".": {
+      "import": "./index.ts",
+      "types": "./index.ts"
+    }
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "bun test"
+  },
+  "keywords": [
+    "bot",
+    "music",
+    "lavalink",
+    "bun",
+    "bunraku",
+    "ovencord",
+    "high-performance",
+    "discord",
+    "websocket",
+    "zero-dependencies",
+    "typescript"
+  ],
+  "engines": {
+    "bun": ">=1.0.0"
+  },
+  "author": "Luigi Colantuono",
+  "license": "MIT",
+  "homepage": "https://github.com/ovencord/bunraku#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovencord/bunraku.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ovencord/bunraku/issues"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://paypal.me/l0g4n7"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/bun": "latest",
+    "eslint": "^9.39.2",
+    "globals": "^17.2.0",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.54.0"
+  }
+}
