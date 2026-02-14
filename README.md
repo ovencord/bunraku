@@ -20,7 +20,7 @@
 | Package | Size | Dependencies | Total Install |
 |---------|------|--------------|---------------|
 | shoukaku | 366 kB | ws (~300 kB) | **~666 kB** |
-| shoukaku-bun | 70 kB | **NONE** | **~70 kB** |
+| bunraku | 70 kB | **NONE** | **~70 kB** |
 
 **90% smaller install size!** 
 
