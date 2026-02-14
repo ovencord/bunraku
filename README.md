@@ -12,7 +12,7 @@
 
 - **Bun-Native**: Re-engineered to run exclusively on Bun.Purged all Node.js legacy dependencies (like `ws`).
 - **Zero Latency**: Uses Bun's kernel-level WebSocket for maximum throughput.
-- **Ultra Lightweight**: Optimized for minimal memory footprint (production tested at ~33MB).
+- **Ultra Lightweight**: Optimized for minimal memory footprint
 - **TypeScript Native**: No build step required. Direct execution from source.
 
 ## 📦 Bundle Size Comparison
