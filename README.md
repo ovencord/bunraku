@@ -1,6 +1,20 @@
 # 𝗕 𝗨 𝗡 𝗥 𝗔 𝗞 𝗨
 
-<p align="center"><a href="https://github.com/sponsors/LuigiColantuono"><img src="https://img.shields.io/github/sponsors/LuigiColantuono?style=social"></a> <a href="https://paypal.me/l0g4n7"><img src="https://img.shields.io/badge/💖-Support-ff69b4"></a> <img src="https://img.shields.io/npm/v/bunraku"> <img src="https://img.shields.io/npm/dm/bunraku?label=downloads"> <img src="https://img.shields.io/npm/l/bunraku"> <img src="https://img.shields.io/github/repo-size/ovencord/bunraku"> <a href="https://github.com/ovencord/bunraku"><img src="https://img.shields.io/badge/Bun-Networking-black?logo=bun"></a></p>
+<p align="left">
+  <a href="https://github.com/sponsors/LuigiColantuono">
+    <img src="https://img.shields.io/github/sponsors/LuigiColantuono?style=social">
+  </a> 
+  <a href="https://paypal.me/l0g4n7">
+    <img src="https://img.shields.io/badge/💖-Support-ff69b4">
+  </a> 
+  <img src="https://img.shields.io/npm/v/@ovencord/bunraku"> 
+  <img src="https://img.shields.io/npm/dm/@ovencord/bunraku?label=downloads"> 
+  <img src="https://img.shields.io/npm/l/@ovencord/bunraku"> 
+  <img src="https://img.shields.io/github/repo-size/ovencord/bunraku"> 
+  <a href="https://github.com/ovencord/bunraku">
+    <img src="https://img.shields.io/badge/Bun-Networking-black?logo=bun">
+  </a>
+</p>
 
 > Powerful, Lightweight Lavalink wrapper
 
@@ -22,7 +36,7 @@
 | shoukaku | 366 kB | ws (~300 kB) | **~666 kB** |
 | bunraku | 70 kB | **NONE** | **~70 kB** |
 
-**90% smaller install size!** 
+> **90% smaller install size!** 
 
 ## 🎵 The Story
 
